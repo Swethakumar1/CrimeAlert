@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834689614537",
+    "firebase_url": "https://crimealert-master.firebaseio.com",
+    "project_id": "crimealert-master",
+    "storage_bucket": "crimealert-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834689614537:android:1265d69b60b9916b",
+        "android_client_info": {
+          "package_name": "com.example.arwen.crimealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834689614537-qb9730rgmitgp27fflb1qpqlunvlm7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKerYvfz7xAgm10VTj5NBpnGe97u40xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834689614537-qb9730rgmitgp27fflb1qpqlunvlm7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
